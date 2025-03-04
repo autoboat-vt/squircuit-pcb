@@ -1,4 +1,4 @@
  - Flyback diode for the H-bridge
  - Reverse the pins on the buck converter
  - Swap the MISO and GND
- - Chris's mom
+ 
